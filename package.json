@@ -1,6 +1,6 @@
 {
   "name": "use-dota-hook",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A custom React hook for fetching Dota 2 hero data",
   "main": "dist/src/useDota.js", 
   "types": "dist/src/useDota.d.ts",
