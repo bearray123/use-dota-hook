@@ -3,7 +3,7 @@ import { onMounted, ref } from 'vue'
 
 // Dota2的openAPI文档：https://docs.opendota.com/#tag/heroes/operation/get_heroes
 
-interface Hero {
+export interface Hero {
   id: number
   name: string
   localized_name: string
